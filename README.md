@@ -1,2 +1,4 @@
-# ddos-attack-
-Script DDOS
+ddosattack
+
+
+script ddos terbaru dan simple
